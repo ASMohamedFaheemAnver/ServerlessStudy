@@ -1,0 +1,7 @@
+Serving application - S3 (Simple storage service)
+Rest API - API Gateway
+Execute Code on Demand - Lambda
+Storage && Retrieve Data (DB) - DynamoDB
+Authentication - Cognito
+Translate URL - Route 53
+Improve Performance (Eg. Caching) - Cloudfront
