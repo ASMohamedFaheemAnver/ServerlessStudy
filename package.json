@@ -1,0 +1,21 @@
+{
+  "name": "servelessstudy",
+  "version": "1.0.0",
+  "description": "Serverless notes and resources from scratch!,",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ASMohamedFaheemAnver/ServerlessStudy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ASMohamedFaheemAnver/ServerlessStudy/issues"
+  },
+  "homepage": "https://github.com/ASMohamedFaheemAnver/ServerlessStudy#readme",
+  "dependencies": {
+    "axios": "^1.3.4"
+  }
+}
