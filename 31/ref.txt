@@ -1,0 +1,13 @@
+# Defining model
+Eg. 
+{
+  "$schema" : "http://json-schema.org/draft-04/schema#",
+  "title" : "CUSData",
+  "type" : "object",
+  "properties" : {
+    "age" : { "type" : "integer" },
+    "height" : { "type" : "integer" },
+    "income" : { "type" : "integer" }
+  },
+  "required": ["age", "height", "income"]
+}
