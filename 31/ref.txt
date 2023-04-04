@@ -11,3 +11,4 @@ Eg.
   },
   "required": ["age", "height", "income"]
 }
+# JSON Schema language

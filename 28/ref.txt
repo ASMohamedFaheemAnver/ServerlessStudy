@@ -6,3 +6,4 @@
 {
 "msg" : $input.json('$.data.msg')
 }
+# Apache velocity language
